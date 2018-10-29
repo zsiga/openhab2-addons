@@ -1,4 +1,4 @@
-# Modbus Binding
+# Modbus Binding (Compatible with the next release only [2.4]!)
 
 This is the binding to access Modbus TCP and serial slaves. RTU, ASCII and BIN variants of Serial Modbus are supported.
 Modbus TCP slaves are usually also called as Modbus TCP servers.
